@@ -1,0 +1,12 @@
+.btn{
+    margin: 10px;
+    width: 50px;
+    color: #fff;
+}
+.increase{
+    background-color: green;
+}
+.decrease{
+    background-color: red;
+    
+}

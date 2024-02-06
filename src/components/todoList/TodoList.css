@@ -1,0 +1,47 @@
+.l-wrap{
+    padding: 25px;
+    box-shadow: 0 15px 10px #777;
+}
+.form-control{
+    width: 500px;
+    border-radius: 10px;
+    padding: 22px;
+    margin-bottom: 20px;
+}
+.form-group-btn{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.displayItem{
+    margin: 20px;
+    border-radius: 10px;
+    padding: 11px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    margin: 10px ;
+}
+.btn-dark{
+    background-color: #000;
+    color: #fff;
+  
+}
+.btn-red{
+    background-color: #f90505;
+    color: #fff;
+}
+.btn-edit{
+    background-color: #62f905;
+    color: #fff;
+}
+.btn-end{
+    display: flex;
+    justify-content: end;
+
+}
+p{
+    color: #000;
+}
